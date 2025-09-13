@@ -44,6 +44,13 @@ const BottleDesign = () => {
       title: 'Elegant Custom Label',
       type: 'Custom Branded',
       description: 'Sophisticated custom design with elegant styling'
+    },
+    {
+      id: 7,
+      image: '/AquaBliss Bottle Design 7.jpg',
+      title: 'Premium Custom Design',
+      type: 'Custom Branded',
+      description: 'High-end custom branding with sophisticated appeal'
     }
   ];
 
